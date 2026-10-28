@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.credentials.py
+.env
+browser_session/
+auth_session/
+*.dat
+*.db
